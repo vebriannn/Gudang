@@ -1,0 +1,21 @@
+D:\PBT\PRAKTEK\praktek1\praktek1\bin\Debug\praktek1.exe.config
+D:\PBT\PRAKTEK\praktek1\praktek1\bin\Debug\praktek1.exe
+D:\PBT\PRAKTEK\praktek1\praktek1\bin\Debug\praktek1.pdb
+D:\PBT\PRAKTEK\praktek1\praktek1\obj\Debug\praktek1.csproj.AssemblyReference.cache
+D:\PBT\PRAKTEK\praktek1\praktek1\obj\Debug\praktek1.csproj.SuggestedBindingRedirects.cache
+D:\PBT\PRAKTEK\praktek1\praktek1\obj\Debug\praktek1.Form1.resources
+D:\PBT\PRAKTEK\praktek1\praktek1\obj\Debug\praktek1.Properties.Resources.resources
+D:\PBT\PRAKTEK\praktek1\praktek1\obj\Debug\praktek1.csproj.GenerateResource.cache
+D:\PBT\PRAKTEK\praktek1\praktek1\obj\Debug\praktek1.csproj.CoreCompileInputs.cache
+D:\PBT\PRAKTEK\praktek1\praktek1\obj\Debug\praktek1.exe
+D:\PBT\PRAKTEK\praktek1\praktek1\obj\Debug\praktek1.pdb
+C:\Users\novia\OneDrive\Documents\XI PPLG6 VEBRIANN\Semester 1\MK 2 PBT Pak Fendi\praktek\praktek1\praktek1\bin\Debug\praktek1.exe.config
+C:\Users\novia\OneDrive\Documents\XI PPLG6 VEBRIANN\Semester 1\MK 2 PBT Pak Fendi\praktek\praktek1\praktek1\bin\Debug\praktek1.exe
+C:\Users\novia\OneDrive\Documents\XI PPLG6 VEBRIANN\Semester 1\MK 2 PBT Pak Fendi\praktek\praktek1\praktek1\bin\Debug\praktek1.pdb
+C:\Users\novia\OneDrive\Documents\XI PPLG6 VEBRIANN\Semester 1\MK 2 PBT Pak Fendi\praktek\praktek1\praktek1\obj\Debug\praktek1.csproj.AssemblyReference.cache
+C:\Users\novia\OneDrive\Documents\XI PPLG6 VEBRIANN\Semester 1\MK 2 PBT Pak Fendi\praktek\praktek1\praktek1\obj\Debug\praktek1.Form1.resources
+C:\Users\novia\OneDrive\Documents\XI PPLG6 VEBRIANN\Semester 1\MK 2 PBT Pak Fendi\praktek\praktek1\praktek1\obj\Debug\praktek1.Properties.Resources.resources
+C:\Users\novia\OneDrive\Documents\XI PPLG6 VEBRIANN\Semester 1\MK 2 PBT Pak Fendi\praktek\praktek1\praktek1\obj\Debug\praktek1.csproj.GenerateResource.cache
+C:\Users\novia\OneDrive\Documents\XI PPLG6 VEBRIANN\Semester 1\MK 2 PBT Pak Fendi\praktek\praktek1\praktek1\obj\Debug\praktek1.csproj.CoreCompileInputs.cache
+C:\Users\novia\OneDrive\Documents\XI PPLG6 VEBRIANN\Semester 1\MK 2 PBT Pak Fendi\praktek\praktek1\praktek1\obj\Debug\praktek1.exe
+C:\Users\novia\OneDrive\Documents\XI PPLG6 VEBRIANN\Semester 1\MK 2 PBT Pak Fendi\praktek\praktek1\praktek1\obj\Debug\praktek1.pdb
